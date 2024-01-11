@@ -20,4 +20,4 @@ Run google_drive_download_enter_url.bat if you wand download one link google dri
 ![google_drive_download_enter_url](/images/google_drive_download_enter_url.jpg)
 
 Thanks for using
-RnD_Pharma_Plus (nghiencuuthuoc.ocom)
+RnD_Pharma_Plus (nghiencuuthuoc.com)
